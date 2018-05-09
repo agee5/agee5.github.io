@@ -1,11 +1,98 @@
 body {
+    background-color: aqua;
 
+}
+
+.Logo {
+    padding-left: 50px
+}
+
+.motto {
+    padding-left: 60px;
+    font-style: italic;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+nav {
+    padding-left: 700px;
+    font-size: 60px;
+    padding-bottom: 100px;
+    position: relative;bottom:170px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.navItem {
+    padding-left: 90px;
+    font-style: italic
 }
 
 h1{
+    text-align: center;
+    font-size: 80px;
+    padding-bottom: 50px;
+    position: relative;bottom: 80px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 
 }
 
-p {
-    
+.aboutext {
+    border-top: 25px solid #8B4513;
+    border-bottom: 25px solid#8B4513;
+    padding-left: 700px;
+    padding-top: 100px;
+    padding-bottom: 120px;
+    padding-right: 25px;
+    font-size: 40px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
+
+.storefront {
+    float: left;
+    position: relative;top: 100px;
+    padding-left: 50px
+}
+
+.aboutext2{
+    border-bottom: 25px solid #8B4513;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+    padding-right: 950px;
+    font-size: 40px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.donuts {
+    float:right;
+    padding-top: 100px;
+    position: relative;top: 200px;
+    padding-right: 50px
+}
+
+.aboutfire{
+    padding-left: 900px;
+    padding-bottom: 100px;
+    padding-right: 20px;
+    font-size: 40px;
+    position: relative;top: 100px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border-bottom: 25px solid#8B4513;
+}
+
+.fire{
+    float: left;
+    position: relative;top: 130px;
+    padding-left: 50px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 100px
+}
+
+.lastupdate {
+    text-align: right;
+    position: relative;bottom: 32px;
+    padding-right: 50px;
+}
+

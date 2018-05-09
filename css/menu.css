@@ -1,11 +1,105 @@
 body {
+    background-color: aqua;
+}
 
+.Logo {
+    padding-left: 50px
+}
+
+.motto {
+    padding-left: 60px;
+    font-style: italic;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+nav {
+    padding-left: 700px;
+    font-size: 60px;
+    padding-bottom: 100px;
+    position: relative;bottom:170px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.navItem {
+    padding-left: 90px;
+    font-style: italic
 }
 
 h1{
+    text-align: center;
+    font-size: 80px;
+    padding-bottom: 50px;
+    position: relative;bottom: 80px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 
 }
 
-p {
-    
+.donuts{
+    float: right;
+    padding-right: 250px;
+    position: relative;top: 120px
+}
+
+h2 {
+    font-size: 50px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    padding-left: 300px
+}
+
+.reg {
+    border-top: 25px solid #8B4513;
+    padding-top: 25px
+}
+
+.regular {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 30px;
+    padding-left: 350px;
+}
+
+.regsingle {
+    float: left;
+    position: relative;bottom: 155px;
+    position: relative;left: 100px;
+
+}
+
+.regdozen {
+    float: right;
+    padding-right: 500px
+}
+
+.fancy{
+    padding-top: 200px;
+    position: relative;right: 310px;
+
+}
+
+.fancydonuts {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 30px;
+    padding-left: 350px;
+}
+.coffee {
+    float: right;
+    padding-right: 350px;
+    padding-top: 60px
+}
+
+.fancysingle {
+    position: relative;top: 75px;
+    padding-left: 650px;
+    padding-bottom: 25px;
+    border-bottom: 25px solid#8B4513;
+}
+
+footer {
+    text-align: center;
+    padding-top: 100px
+}
+
+.lastupdate {
+    text-align: right;
+    position: relative;bottom: 32px;
+    padding-right: 50px;
 }
